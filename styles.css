@@ -1,0 +1,37 @@
+textarea {
+    border-radius: 2rem;
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#output {
+    border-radius: 2rem;
+    background-color:white;
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}
+body{
+    background-color:lightgreen;
+}
+h1{
+    text-align: center;
+}
+#btn-translate{
+    background-color:aqua;
+    margin:auto;
+    display: flex;
+    color:black;
+    font-weight: bolder;
+    border-radius: 1rem;
+}
+#text-output {
+    text-align: center;
+    font-weight:bold;
+    font-size: 2rem;
+}
